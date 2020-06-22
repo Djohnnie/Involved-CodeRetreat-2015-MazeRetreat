@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathFinder.DataModel", "PathFinder.DataModel\PathFinder.DataModel.csproj", "{3261B093-6A77-4B3F-AE75-D7F22E8C71E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathFinder.PuzzleMaker", "PathFinder.PuzzleMaker\PathFinder.PuzzleMaker.csproj", "{2B5F4108-84F2-4891-91B7-2F4C90D869CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathFinder.PuzzleVisualizer", "PathFinder.PuzzleVisualizer\PathFinder.PuzzleVisualizer.csproj", "{2BE4837F-4583-42C5-BF58-4E8CBFB76AC1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sample Mazes", "Sample Mazes", "{040C00EA-67FF-45F1-AFE7-C73F6E957C6D}"
+	ProjectSection(SolutionItems) = preProject
+		Sample\Level-1.maz = Sample\Level-1.maz
+		Sample\Level-2.maz = Sample\Level-2.maz
+		Sample\Level-3.maz = Sample\Level-3.maz
+		Sample\Level-4.maz = Sample\Level-4.maz
+		Sample\Level-5.maz = Sample\Level-5.maz
+		Sample\Level-6.maz = Sample\Level-6.maz
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pathfinder.PuzzleVisualizer.WinForms", "Pathfinder.PuzzleVisualizer.WinForms\Pathfinder.PuzzleVisualizer.WinForms.csproj", "{7D470332-DCFD-4F0D-BEAD-E5945C1CFA4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathFinder.PuzzleSolver.Wpf", "PathFinder.PuzzleSolver.Wpf\PathFinder.PuzzleSolver.Wpf.csproj", "{0B775874-1A9C-4E24-8AD6-5F02091E4AEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3261B093-6A77-4B3F-AE75-D7F22E8C71E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3261B093-6A77-4B3F-AE75-D7F22E8C71E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3261B093-6A77-4B3F-AE75-D7F22E8C71E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3261B093-6A77-4B3F-AE75-D7F22E8C71E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B5F4108-84F2-4891-91B7-2F4C90D869CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B5F4108-84F2-4891-91B7-2F4C90D869CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B5F4108-84F2-4891-91B7-2F4C90D869CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B5F4108-84F2-4891-91B7-2F4C90D869CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BE4837F-4583-42C5-BF58-4E8CBFB76AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE4837F-4583-42C5-BF58-4E8CBFB76AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE4837F-4583-42C5-BF58-4E8CBFB76AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE4837F-4583-42C5-BF58-4E8CBFB76AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D470332-DCFD-4F0D-BEAD-E5945C1CFA4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D470332-DCFD-4F0D-BEAD-E5945C1CFA4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D470332-DCFD-4F0D-BEAD-E5945C1CFA4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D470332-DCFD-4F0D-BEAD-E5945C1CFA4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B775874-1A9C-4E24-8AD6-5F02091E4AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B775874-1A9C-4E24-8AD6-5F02091E4AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B775874-1A9C-4E24-8AD6-5F02091E4AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B775874-1A9C-4E24-8AD6-5F02091E4AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

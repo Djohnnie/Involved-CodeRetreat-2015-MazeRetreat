@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maze xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Width>9</Width>
+  <Height>10</Height>
+  <Cells>
+    <Cell xsi:type="Wall">
+      <X>0</X>
+      <Y>0</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>0</X>
+      <Y>1</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>0</X>
+      <Y>2</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>0</X>
+      <Y>3</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>0</X>
+      <Y>4</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>0</X>
+      <Y>5</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>0</X>
+      <Y>6</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>0</X>
+      <Y>7</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>0</X>
+      <Y>8</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>0</X>
+      <Y>9</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>1</X>
+      <Y>0</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>1</X>
+      <Y>1</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>1</X>
+      <Y>2</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>1</X>
+      <Y>3</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>1</X>
+      <Y>4</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>1</X>
+      <Y>5</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>1</X>
+      <Y>6</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>1</X>
+      <Y>7</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>1</X>
+      <Y>8</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>1</X>
+      <Y>9</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>2</X>
+      <Y>0</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>2</X>
+      <Y>1</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>2</X>
+      <Y>2</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>2</X>
+      <Y>3</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>2</X>
+      <Y>4</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>2</X>
+      <Y>5</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>2</X>
+      <Y>6</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>2</X>
+      <Y>7</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>2</X>
+      <Y>8</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>2</X>
+      <Y>9</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>3</X>
+      <Y>0</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>3</X>
+      <Y>1</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>3</X>
+      <Y>2</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>3</X>
+      <Y>3</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>3</X>
+      <Y>4</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>3</X>
+      <Y>5</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>3</X>
+      <Y>6</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>3</X>
+      <Y>7</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>3</X>
+      <Y>8</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>3</X>
+      <Y>9</Y>
+    </Cell>
+    <Cell xsi:type="Finish">
+      <X>4</X>
+      <Y>0</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>4</X>
+      <Y>1</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>4</X>
+      <Y>2</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>4</X>
+      <Y>3</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>4</X>
+      <Y>4</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>4</X>
+      <Y>5</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>4</X>
+      <Y>6</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>4</X>
+      <Y>7</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>4</X>
+      <Y>8</Y>
+    </Cell>
+    <Cell xsi:type="Start">
+      <X>4</X>
+      <Y>9</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>5</X>
+      <Y>0</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>5</X>
+      <Y>1</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>5</X>
+      <Y>2</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>5</X>
+      <Y>3</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>5</X>
+      <Y>4</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>5</X>
+      <Y>5</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>5</X>
+      <Y>6</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>5</X>
+      <Y>7</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>5</X>
+      <Y>8</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>5</X>
+      <Y>9</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>6</X>
+      <Y>0</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>6</X>
+      <Y>1</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>6</X>
+      <Y>2</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>6</X>
+      <Y>3</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>6</X>
+      <Y>4</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>6</X>
+      <Y>5</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>6</X>
+      <Y>6</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>6</X>
+      <Y>7</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>6</X>
+      <Y>8</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>6</X>
+      <Y>9</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>7</X>
+      <Y>0</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>7</X>
+      <Y>1</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>7</X>
+      <Y>2</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>7</X>
+      <Y>3</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>7</X>
+      <Y>4</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>7</X>
+      <Y>5</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>7</X>
+      <Y>6</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>7</X>
+      <Y>7</Y>
+    </Cell>
+    <Cell xsi:type="Empty">
+      <X>7</X>
+      <Y>8</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>7</X>
+      <Y>9</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>8</X>
+      <Y>0</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>8</X>
+      <Y>1</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>8</X>
+      <Y>2</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>8</X>
+      <Y>3</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>8</X>
+      <Y>4</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>8</X>
+      <Y>5</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>8</X>
+      <Y>6</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>8</X>
+      <Y>7</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>8</X>
+      <Y>8</Y>
+    </Cell>
+    <Cell xsi:type="Wall">
+      <X>8</X>
+      <Y>9</Y>
+    </Cell>
+  </Cells>
+</Maze>
